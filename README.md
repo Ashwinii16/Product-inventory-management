@@ -4,9 +4,9 @@ This project allows users to add, update, delete and view products in inventory.
 
 ## Technologies Used
 - Node.js
-- Express
+- vs code
 - MongoDB
-- JavaScript
+- npm
 
 ## Features
 - Add a product
